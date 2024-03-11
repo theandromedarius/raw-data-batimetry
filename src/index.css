@@ -1,0 +1,17 @@
+.preview-table-container {
+  max-width: 600px;
+  max-height: 600px;
+  overflow: auto;
+}
+
+.preview-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.preview-table th,
+.preview-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
